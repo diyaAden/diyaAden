@@ -9,13 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 
-My name is Diya, and I'm a rising sophomore at The Ohio State University. I'm majoring in Computer Science and Engineering. 
+My name is Diya, and I'm a rising sophomore at The Ohio State University. I'm majoring in Computer Science and Engineering. I've been programming in Java for 5+ years, and have also gained proficiency in a variety of other languages through project work and self-learning.
+
+One of my biggest interests in the tech industry is XR applications. 
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 # Welcome to Diya's GitHub Page!
 ## Bio
@@ -24,7 +23,9 @@ My name is Diya, and I'm a rising sophomore at The Ohio State University. I'm ma
 
 ### Project QuickLinks 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diyaAden/diyaAden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Game Design
+
+Coursework
 
 ### Contact
 
