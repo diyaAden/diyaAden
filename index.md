@@ -9,7 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 
-My name is Diya, and I'm a rising sophomore at The Ohio State University. I'm majoring in Computer Science and Engineering. I've been programming in Java for 5+ years, and have also gained proficiency in a variety of other languages through project work and self-learning.
+My name is Diya, and I'm a rising sophomore at The Ohio State University. I'm 
+majoring in Computer Science and Engineering. I've been programming in Java for 
+5+ years, and have also gained proficiency in a variety of other languages through 
+project work and self-learning.
 
 One of my biggest interests in the tech industry is XR applications. 
 
