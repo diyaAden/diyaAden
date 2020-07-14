@@ -20,7 +20,7 @@ One of my biggest interests in the tech industry is XR applications.
 
 ### Project QuickLinks 
 
-Game Design
+[Game Design] (https://github.com/diyaAden/diyaAden/blob/master/gameDesign.md)
 
 Coursework
 
