@@ -27,5 +27,7 @@ Coursework
 ### Contact
 
 Email: diyaaden23@gmail.com
+
 [LinkedIn](https://help.github.com/categories/github-pages-basics/)
+
 [Art Page](https://github.com/contact)
