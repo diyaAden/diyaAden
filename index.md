@@ -16,13 +16,7 @@ project work and self-learning.
 
 One of my biggest interests in the tech industry is XR applications. 
 
-
-
 ```
-# Welcome to Diya's GitHub Page!
-## Bio
-### Project QuickLinks
-
 
 ### Project QuickLinks 
 
