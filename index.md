@@ -1,8 +1,6 @@
 ## Welcome to Diya's GitHub! 
 
-You can use the [editor on GitHub](https://github.com/diyaAden/diyaAden/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+< Always Updating />
 
 ### About
 
@@ -14,7 +12,10 @@ majoring in Computer Science and Engineering. I've been programming in Java for
 5+ years, and have also gained proficiency in a variety of other languages through 
 project work and self-learning.
 
-One of my biggest interests in the tech industry is XR applications. 
+One of my biggest interests in the tech industry is XR applications. I am especially
+interested in XR applications in the area of game development. Through my undergraduate
+career, I hope to gain experience in a variety of different CS disciplines, and 
+increase my knowledge in the subjects as a whole. 
 
 ```
 
