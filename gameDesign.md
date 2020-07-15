@@ -1,4 +1,4 @@
-### GAME DESIGN
+#### GAME DESIGN
 
 
 ## BeSwitched
@@ -17,7 +17,7 @@ Future Plans:
 - Some further developments we discussed included improving the graphics quality of the games, and creating 
 a larger variety of levels. 
 
-Access the repo here
+[Access the repo here](https://github.com/diyaAden/GameJam2019)
 
 
 ## Software Design Project
