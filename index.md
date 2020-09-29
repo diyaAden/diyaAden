@@ -7,8 +7,7 @@
 
 ```markdown
 
-My name is Diya, and I'm a rising sophomore at The Ohio State University. I'm 
-majoring in Computer Science and Engineering. I've been programming in Java for 
+My name is Diya, and I'm currently a sophomore at The Ohio State University. My major is Computer Science and Engineering and my minors are Game Studies and Cognitive Science. I've been programming in Java for 
 5+ years, and have also gained proficiency in a variety of other languages 
 through project work and self-learning.
 
