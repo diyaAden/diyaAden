@@ -23,12 +23,11 @@ CS disciplines, and increase my knowledge in the subjects as a whole.
 
 [Game Design](https://diyaaden.github.io/diyaAden/gameDesign)
 
-Coursework
+[Coursework] (https://diyaaden.github.io/diyaAden/Coursework)
 
 ### Contact
 
 Email: diyaaden23@gmail.com
 
-[LinkedIn](https://help.github.com/categories/github-pages-basics/)
+[LinkedIn](https://www.linkedin.com/in/diya-adengada-a42264196/)
 
-[Art Page](https://www.instagram.com/axelle.gram/)
